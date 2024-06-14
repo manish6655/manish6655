@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Manish Pathak.
-- 🌱 I’m currently learning Python
+  portfolio: https://my-portfolio-manish-pathaks-projects.vercel.app/
